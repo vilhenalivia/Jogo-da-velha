@@ -1,0 +1,10 @@
+C:\Users\livia\OneDrive\Senai\Jogo da velhaa\bin\Debug\Jogo da velhaa.exe.config
+C:\Users\livia\OneDrive\Senai\Jogo da velhaa\bin\Debug\Jogo da velhaa.exe
+C:\Users\livia\OneDrive\Senai\Jogo da velhaa\bin\Debug\Jogo da velhaa.pdb
+C:\Users\livia\OneDrive\Senai\Jogo da velhaa\obj\Debug\Jogo da velhaa.csproj.AssemblyReference.cache
+C:\Users\livia\OneDrive\Senai\Jogo da velhaa\obj\Debug\Jogo_da_velhaa.Form1.resources
+C:\Users\livia\OneDrive\Senai\Jogo da velhaa\obj\Debug\Jogo_da_velhaa.Properties.Resources.resources
+C:\Users\livia\OneDrive\Senai\Jogo da velhaa\obj\Debug\Jogo da velhaa.csproj.GenerateResource.cache
+C:\Users\livia\OneDrive\Senai\Jogo da velhaa\obj\Debug\Jogo da velhaa.csproj.CoreCompileInputs.cache
+C:\Users\livia\OneDrive\Senai\Jogo da velhaa\obj\Debug\Jogo da velhaa.exe
+C:\Users\livia\OneDrive\Senai\Jogo da velhaa\obj\Debug\Jogo da velhaa.pdb
